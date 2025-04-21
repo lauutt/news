@@ -176,5 +176,16 @@
         "link": "https://www.diariocontexto.com.ar/abro-hilo-soy-goku/",
         "linktext": "Nota"
         
+    },
+    {
+        "id": 15,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Un tiempo sin actualizar", 
+        "subtitle": "21/04/2025",
+        "body": "Pasó un gran tiempo desde la última actualización. Los estudios y el trabajo me llevaron por rumbos impensados. Fui elegido por el METI de Japón para trabajar por un mes en IA en Tokyo, Shibuya y la vida se me fue de las manos. En estos días voy actualizar un poco la cara de esta web y agregaré algunas cosas de interés. ",
+        "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSUbEJltMtTgh-zAEvzE6XS-1l9mU_xKgyAJakxaKwRw8nfJvTVfzFSZ8suEVN5BaxCKglk666tS3YOQuloflSY9kYpTxdmxt2acPVmWgu6fN3oAzJ5DpdJWKxwtAbVJwnMIhK8QGb_g/s1600/Los+Meses+-+Lautaro+Barcel%C3%B3.jpg",
+        "color": "#888888",
+        "link": "https://www.lautarobarcelo.com/",
+        "linktext": "Recursivo"
     }
 ]
