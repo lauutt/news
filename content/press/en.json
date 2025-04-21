@@ -3,195 +3,190 @@
         "id": 1,
         "who": "Alto Miedo",
         "media": "Rock.com.ar",
-        "text": "Elegido entre los mejores veinte discos nacionales de 2019 por Rock.com.ar"
+        "text": "Chosen among the twenty best national albums of 2019 by Rock.com.ar"
     },
     {
         "id": 2,
         "who": "Alto Miedo",
         "media": "Silencio.com.ar",
-        "text": "Elegido mejor disco nacional de 2019 por 3 de los 5 editores"
+        "text": "Chosen best national album of 2019 by 3 of the 5 editors"
     },
     {
         "id": 3,
         "who": "Alto Miedo",
         "media": "Vorterix Radio",
-        "text": "Elegido mejor disco nacional de 2019"
+        "text": "Chosen best national album of 2019"
     },
     {
         "id": 4,
         "who": "Alto Miedo",
         "media": "Artezeta.com.ar",
-        "text": "Elegido mejor disco nacional de 2019"
+        "text": "Chosen best national album of 2019"
     },
     {
         "id": 5,
         "who": "Alto Miedo",
         "media": "La Agenda Buenos Aires, Martín Graziano",
-        "text": "Un brindis por el fin del mundo. Y por la valentía. Como si realmente no tuviera nada que perder, El Estrellero hizo una operación a corazón abierto: esas de cable rojo o cable negro. En el preciso momento en el que el territorio común de los cinco integrantes parecía reducirse a una baldosa, comenzaron a hacer un pozo tan profundo que salieron del otro lado."
+        "text": "A toast to the end of the world. And to courage. As if they really had nothing to lose, El Estrellero performed open heart surgery: those of red wire or black wire. At the precise moment when the common ground of the five members seemed to be reduced to a tile, they began to dig a hole so deep that they came out the other side."
     },
     {
         "id": 6,
         "who": "Alto Miedo",
         "media": "Ultrabrit, Giselle Hidalgo",
-        "text": "Alto Miedo es la muestra más acabada de esta capacidad de El Estrellero por fagocitar elementos y transformarlos en una identidad propia, muy particular."
+        "text": "Alto Miedo is the most complete display of El Estrellero's ability to absorb elements and transform them into their own, very particular identity."
     },
     {
         "id": 7,
         "who": "Los Magos",
         "media": "Rolling Stone, Claudio Kleiman",
-        "text": "'Rara vez una banda nueva ofrece un trabajo uniformemente excelente en todos los aspectos: melodías, letras, arreglos vocales, guitarras y concepto. Los dos compositores principales, Lautaro Barceló y Juan Irio, se diferencian pero a la vez confluyen en una música con climas de ensueño y aires de psicodelia'"
+        "text": "'Rarely does a new band offer uniformly excellent work in all aspects: melodies, lyrics, vocal arrangements, guitars and concept. The two main composers, Lautaro Barceló and Juan Irio, differentiate themselves but at the same time converge in music with dreamlike atmospheres and psychedelic airs'"
     },
     {
         "id": 8,
         "who": "Los Magos",
-        "media": "Ganador del Premio Mr. E a mejor disco argentino independiente",
-        "text": "'“Los Magos” es la confirmación de la certeza que El Estrellero es una banda extraordinaria y que su música es de una riqueza y un volumen muy poco frecuentes'"
+        "media": "Winner of the Mr. E Award for best independent Argentine album",
+        "text": "\"'Los Magos' is the confirmation of the certainty that El Estrellero is an extraordinary band and that their music has a richness and volume very rarely found\""
     },
     {
         "id": 9,
         "who": "Los Magos",
         "media": "Martín Graziano, Diario La Nación",
-        "text": "'“Si el Indec midiera el arco melódico de las bandas de rock, El Estrellero estaría en la punta púrpura de sus tablas de estadísticas”'"
+        "text": "\"'If Indec measured the melodic range of rock bands, El Estrellero would be at the purple top of its statistical tables'\""
     },
     {
         "id": 10,
         "who": "Los Magos",
-        "media": "Los Inrocks. “El deseo de fascinar” elegida entre las 20 mejores canciones de Agosto.",
-        "text": "'Tu nueva banda favorita'"
+        "media": "Los Inrocks. \"The desire to fascinate\" chosen among the 20 best songs of August.",
+        "text": "'Your new favorite band'"
     },
     {
         "id": 11,
         "who": "Los Magos",
         "media": "Página/12",
-        "text": "'Los magos encarna una figura simbólica mediante la cual se rinde homenaje a la alquimia producida entre todo eso que conmueve, desde un líder carismático hasta una obra de arte, y el sujeto encantado'"
+        "text": "'Los magos embodies a symbolic figure through which homage is paid to the alchemy produced between all that moves us, from a charismatic leader to a work of art, and the enchanted subject'"
     },
     {
         "id": 12,
         "who": "Los Magos",
         "media": "ArteZeta",
-        "text": "Los Magos, candidato a rankear alto entre lo mejor del año en cuanto a cosecha nacional"
+        "text": "Los Magos, candidate to rank high among the best of the year in terms of national harvest"
     },
     {
         "id": 13,
         "who": "Los Magos",
         "media": "Agencia Télam",
-        "text": "El Estrellero da un salto con grandes canciones en el álbum “Los Magos”"
+        "text": "El Estrellero takes a leap with great songs in the album \"Los Magos\""
     },
     {
         "id": 14,
         "who": "Los Magos",
         "media": "José Maldonado, Diario El Día de La Plata",
-        "text": "'El disco recién editado por el sello Pontaco se presenta como un manifiesto estético, poético y, también, político.'"
+        "text": "'The album recently released by the Pontaco label presents itself as an aesthetic, poetic and, also, political manifesto.'"
     },
     {
         "id": 15,
         "who": "Los Magos",
         "media": "AgendArte",
-        "text": "'Un cúmulo de 11 canciones conversan desde una fuerte apuesta estética, metafórica y política, a través de una encantadora fusión de rock, pop, psicodelia y baile, sin perder de vista el culto a la canción.'"
+        "text": "'A cluster of 11 songs converse from a strong aesthetic, metaphorical and political stance, through an enchanting fusion of rock, pop, psychedelia and dance, without losing sight of the cult of song.'"
     },
     {
         "id": 16,
         "who": "Drama",
-        "media": "Reseña de Oscar Jalil para Rolling Stone, 4 estrellas",
-        "text": "“El arranque de Drama dice tanto de El Estrellero como esas primeras impresiones de una pintura inolvidable. Es pop, no hay duda, pero con la concepción renacentista de construir catedrales de tres minutos.”"
+        "media": "Review by Oscar Jalil for Rolling Stone, 4 stars",
+        "text": "\"The start of Drama says as much about El Estrellero as those first impressions of an unforgettable painting. It's pop, no doubt, but with the Renaissance conception of building three-minute cathedrals.\""
     },
     {
         "id": 17,
         "who": "Drama",
-        "media": "Reseña en Premio Mr. E",
-        "text": "“La experiencia de la escucha es ineludible. Con la nariz siempre al viento y guiados por dos auténticas estrellas del rock argentino la banda de La Plata saca uno de los mejores del año.“"
+        "media": "Review in Premio Mr. E",
+        "text": "\"The listening experience is unavoidable. With their nose always to the wind and guided by two authentic stars of Argentine rock, the band from La Plata releases one of the best of the year.\""
     },
     {
         "id": 18,
         "who": "Drama",
-        "media": "Suplemento Radar por Juan Andrade, Página/12.",
-        "text": "“Con melodías pop épicas y embriagadoras, El Estrellero viene desmarcándose como la revelación del año, al punto de que sin siquiera tener editada su música en soporte físico –su disco Drama es todavía solamente digital– fueron invitados a tocar al Festival BUE”"
+        "media": "Suplemento Radar by Juan Andrade, Página/12.",
+        "text": "\"With epic and intoxicating pop melodies, El Estrellero has been emerging as the revelation of the year, to the point that without even having their music published in physical format –their album Drama is still only digital– they were invited to play at the BUE Festival\""
     },
     {
         "id": 19,
         "who": "Drama",
         "media": "Revista NAN",
-        "text": "“En la lírica melancólica de Barceló e Irio quizá esté otro de los fuertes de este disco, que cuenta con una poesía que le saca varias cabezas de ventaja al común de las bandas independientes de Argentina”"
+        "text": "\"In the melancholic lyrics of Barceló and Irio perhaps lies another of the strengths of this album, which features poetry that is several heads above the common independent bands of Argentina\""
     },
     {
         "id": 20,
         "who": "Drama",
         "media": "IndieHearts",
-        "text": "“Escuchar Drama es, en pocas palabras, brindar por la música. Y tiene un sabor más rico porque es una banda de acá, que suena increíble.”"
+        "text": "\"Listening to Drama is, in a few words, a toast to music. And it has a richer flavor because it's a band from here, that sounds incredible.\""
     },
     {
         "id": 21,
         "who": "Drama",
         "media": "Billboard",
-        "text": "“El Estrellero es la nueva sensación del indie platense (y, por qué no, del indie nacional), y está bien que así sea.”"
+        "text": "\"El Estrellero is the new sensation of the La Plata indie scene (and, why not, of the national indie), and it's good that it is so.\""
     },
     {
         "id": 22,
         "who": "Drama",
         "media": "ArteZeta",
-        "text": "“Era lógico y esperable, pero sorprendió igual: El Estrellero publicó Drama, uno de los grandes discos del año para el rock argentino.”"
+        "text": "\"It was logical and expected, but surprising nonetheless: El Estrellero published Drama, one of the great albums of the year for Argentine rock.\""
     },
     {
         "id": 23,
         "who": "Drama",
         "media": "La Nación",
-        "text": "“La Plata sigue entregando a los mejores grupos de la escena local y esta banda formada por la dupla autoral y verdaderos veteranos del indie como Lautaro Barceló y Juan Irio (Orquesta de Perros, Miro y su Fabulosa Orquesta de Juguete y The Siniestros) no es la excepción”"
+        "text": "\"La Plata continues to deliver the best groups on the local scene and this band formed by the authorial duo and true indie veterans like Lautaro Barceló and Juan Irio (Orquesta de Perros, Miro y su Fabulosa Orquesta de Juguete and The Siniestros) is no exception\""
     },
     {
         "id": 24,
         "who": "Drama",
         "media": "Pastizales Burning",
-        "text": "“El Estrellero llega desde la ciudad de las diagonales; cargados de un repertorio que reivindica el cancionero Pop-Rock, con una vuelta de tuerca que derrocha estilo y personalidad.”"
+        "text": "\"El Estrellero comes from the city of diagonals; loaded with a repertoire that vindicates the Pop-Rock songbook, with a twist that exudes style and personality.\""
     },
     {
         "id": 25,
         "who": "Drama",
         "media": "Revista Tiburón",
-        "text": "“El debut discográfico de El Estrellero muestra un trabajo arduo de ingeniería sonora, producto de cientos de ensayos, y deja en evidencia la creatividad contenida que desborda en cada uno de sus canciones”"
+        "text": "\"El Estrellero's debut album shows arduous work of sound engineering, the product of hundreds of rehearsals, and reveals the contained creativity that overflows in each of their songs\""
     },
     {
         "id": 26,
         "who": "Drama",
         "media": "Revista Ondular",
-        "text": "“En los últimos meses generaron cuanto menos el entusiasmo de todo aquel que haya tenido la oportunidad de escuchar sus canciones.”"
+        "text": "\"In recent months they have generated at least the enthusiasm of anyone who has had the opportunity to listen to their songs.\""
     },
     {
         "id": 27,
         "who": "Drama",
         "media": "Revista Va Viene",
-        "text": "“El Estrellero, banda joven promesa de jóvenes promesas, comienza a cumplir bajo sus propias reglas.”"
+        "text": "\"El Estrellero, young promising band of young promises, begins to fulfill under its own rules.\""
     },
     {
         "id": 28,
         "who": "Drama",
         "media": "Revista POTQ",
-        "text": "“La poesía, pieza angular en la composición de ambos, es un flashback a Sui Generis y las letras que Charly García con Nito Mestre escribieron en los comienzos del rock argentino. Más aún, Drama (Fuego Amigo Discos, 2016) –su placa debut- comparte momentos sonoros con aquella banda refinada de Buenos Aires.”"
+        "text": "\"Poetry, a cornerstone in the composition of both, is a flashback to Sui Generis and the lyrics that Charly García with Nito Mestre wrote in the beginnings of Argentine rock. Furthermore, Drama (Fuego Amigo Discos, 2016) –their debut album– shares sonic moments with that refined band from Buenos Aires.\""
     },
     {
         "id": 29,
         "who": "Drama",
         "media": "Proyecto Spoiler",
-        "text": "“El álbum debut de la banda proveniente de La Plata amalgama y conecta mundos a través de melodías diáfanas, poesía romántica y guitarras siderales.”"
+        "text": "\"The debut album of the band from La Plata amalgamates and connects worlds through diaphanous melodies, romantic poetry and sidereal guitars.\""
     },
     {
         "id": 30,
         "who": "Drama",
         "media": "Indie Hoy",
-        "text": "“…viaje que es guiado por letras repletas de sentimientos que van dejando canciones donde la melancolía puede convivir con la alegría sin que haya un solo problema.”"
+        "text": "\"...journey that is guided by lyrics full of feelings that leave songs where melancholy can coexist with joy without a single problem.\""
     },
     {
         "id": 31,
         "who": "Drama",
-        "text": "Reconocido como uno de los discos del año por Premio Mr. E, ArteZeta, La Música es del Aire, Pastizales Burning, Revista Ondular, Revista La Tundra."
+        "text": "Recognized as one of the albums of the year by Premio Mr. E, ArteZeta, La Música es del Aire, Pastizales Burning, Revista Ondular, Revista La Tundra."
     },
     {
         "id": 32,
         "who": "Drama",
-        "text": "Premio a Mejor Canción en “Fan, el programa” por “Rima”."
-    }    
-
-
-    
+        "text": "Award for Best Song in \"Fan, el programa\" for \"Rima\"."
+    }
 ]
-
-
