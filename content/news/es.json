@@ -187,5 +187,27 @@
         "color": "#888888",
         "link": "https://www.lautarobarcelo.com/",
         "linktext": "Recursivo"
+    },
+    {
+        "id": 16,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Entrevista en Alguien me Dijo", 
+        "subtitle": "10/05/2025",
+        "body": "Fui a las oficinas de la Cielo, frente a la rambla donde solía correr cuando mi espalda me lo permitía. Tuvimos una charla coloquial sobre la IA que quizás a alguno le interese.",
+        "img": "https://i.ytimg.com/vi/vm5GC9gU_N4/hq720.jpg",
+        "color": "#4cc9f0",
+        "link": "https://www.youtube.com/watch?v=vm5GC9gU_N4",
+        "linktext": "Cielo"
+    },
+        {
+        "id": 17,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Entrevista en Alguien me Dijo", 
+        "subtitle": "10/05/2025",
+        "body": "Fui a las oficinas de la Cielo, frente a la rambla donde solía correr cuando mi espalda me lo permitía. Tuvimos una charla coloquial sobre la IA que quizás a alguno le interese.",
+        "img": "https://i.ytimg.com/vi/vm5GC9gU_N4/hq720.jpg",
+        "color": "#4cc9f0",
+        "link": "https://www.youtube.com/watch?v=vm5GC9gU_N4",
+        "linktext": "Cielo"
     }
 ]
