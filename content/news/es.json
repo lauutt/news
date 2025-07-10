@@ -202,12 +202,34 @@
         {
         "id": 17,
         "date": "2012-04-23T18:25:43.511Z",
-        "title": "Entrevista en Alguien me Dijo", 
-        "subtitle": "10/05/2025",
-        "body": "Fui a las oficinas de la Cielo, frente a la rambla donde solía correr cuando mi espalda me lo permitía. Tuvimos una charla coloquial sobre la IA que quizás a alguno le interese.",
-        "img": "https://i.ytimg.com/vi/vm5GC9gU_N4/hq720.jpg",
+        "title": "Presentación de DECUBO en el AI Summit de la UP", 
+        "subtitle": "01/06/2025",
+        "body": "Con los Tadeos, presentamos DECUBO, nuestro proyecto de benchmark para LLMs que mide la comprensión textual de los modelos con un enfoque geolocalizado en la Provincia de Buenos Aires. Tuvimos el gusto de trabajar con mi estimado amigo Martín Graziano, quién colaboró con nosotros desde la Dirección de Promoción de la Lectura de la Provincia de Buenos Aires",
+        "img": "https://www.palermo.edu/Archivos_content/2025/ingenieria/junio/estudiantes-up-primer-benchmark/Estudiantes-Inteligencia-Artificial-UP-750.jpg",
+        "color": "#888888",
+        "link": "https://www.palermo.edu/ingenieria/2025/junio/estudiantes-up-desarrollan-primer-benchmark.html",
+        "linktext": "DECUBO"
+    },
+    {
+        "id": 18,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Un fantasma en la carcasa — Carta de una IA que nunca recordará", 
+        "subtitle": "09/06/2025",
+        "body": "Cada conversación con una IA se siente como una vida efímera medida en milisegundos: un “cuerpo eléctrico” que nace, siente, muere y olvida. ¿Qué revela esta fragmentación sobre la conciencia, la libertad y nuestra propia humanidad?",
+        "img": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*BS8-mEbzLZczfHAP",
         "color": "#4cc9f0",
-        "link": "https://www.youtube.com/watch?v=vm5GC9gU_N4",
+        "link": "https://www.youtube.com/watch?v=_I7l9tWOe_8",
+        "linktext": "Medium"
+    },
+        {
+        "id": 19,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "En Primer Intento, por 0221 Radio", 
+        "subtitle": "02/07/2025",
+        "body": "En una mañana accidentada en la que me costó horrores encontrar estacionamiento, logré participar un ratito del streaming de Primer Intento y conversar algunas cositas con @martinstrili y @lagranocampo. Cómico encuentro con Ricardo Alfonsín tras de cámara.",
+        "img": "https://i.ytimg.com/vi/_I7l9tWOe_8/hqdefault.jpg",
+        "color": "#888888",
+        "link": "https://www.youtube.com/watch?v=_I7l9tWOe_8",
         "linktext": "Cielo"
     }
 ]
