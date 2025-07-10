@@ -224,12 +224,34 @@
         {
         "id": 19,
         "date": "2012-04-23T18:25:43.511Z",
+        "title": "Doble segundo puesto - Promedio y Premio Santander", 
+        "subtitle": "26/06/2025",
+        "body": "En un giro trágico del destino, me premiaron dos veces por no haber ganado. Por segundo promedio y mención especial del Premio Santander por mi trabajo sobre vitivinicultura digital, La Vida Secreta de las Vides. Me premiaron con dos tazas.",
+        "img": "https://pbs.twimg.com/media/GuZImVlWgAESmYE?format=jpg",
+        "color": "#4cc9f0",
+        "link": "https://www.palermo.edu/ingenieria/2025/junio/premio-banco-santander-estudiantes-graduados-ingenieria-up.html",
+        "linktext": "Premio"
+    },
+        {
+        "id": 20,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Show en Astor", 
+        "subtitle": "28/06/2025",
+        "body": "Tocamos unas cuantas canciones en la noche de Astor, antes de entrar a grabar mi primer disco solista oficial. Me acompañaron como siempre, mis socios totales, Ponche y Abril. Al retirarme confundí el nombre del bar con Laurus, cosa que suele ocurrirme habitualmente cuando hablo de cervecerías. Profundicé en la confusión, quise dar explicaciones y empeoré aún más la situación.",
+        "img": "https://cervezalaurus.com.ar/img/Laurus-Img-para-enlace-web.png",
+        "color": "#4cc9f0",
+        "link": "https://www.instagram.com/p/DLd8qfKt6rv/?hl=am-et",
+        "linktext": "Astor"
+    },
+        {
+        "id": 21,
+        "date": "2012-04-23T18:25:43.511Z",
         "title": "En Primer Intento, por 0221 Radio", 
         "subtitle": "02/07/2025",
         "body": "En una mañana accidentada en la que me costó horrores encontrar estacionamiento, logré participar un ratito del streaming de Primer Intento y conversar algunas cositas con @martinstrili y @lagranocampo. Cómico encuentro con Ricardo Alfonsín tras de cámara.",
         "img": "https://i.ytimg.com/vi/_I7l9tWOe_8/hqdefault.jpg",
         "color": "#888888",
         "link": "https://www.youtube.com/watch?v=_I7l9tWOe_8",
-        "linktext": "Cielo"
+        "linktext": "Primer Intento"
     }
 ]
