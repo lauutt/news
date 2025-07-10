@@ -172,5 +172,82 @@
         "color": "#888888",
         "link": "https://www.lautarobarcelo.com/",
         "linktext": "Recursivo"
-    }
+    },
+    {
+    "id": 16,
+    "date": "2012-04-23T18:25:43.511Z",
+    "title": "Alguien me Dijoでのインタビュー",
+    "subtitle": "2025年5月10日",
+    "body": "Cieloのオフィスに行きました。背中が許してくれていた頃によく走っていた海岸通りの前にあります。AIについてカジュアルな会話をしました。誰かの興味を引くかもしれません。",
+    "img": "https://i.ytimg.com/vi/vm5GC9gU_N4/hq720.jpg",
+    "color": "#4cc9f0",
+    "link": "https://www.youtube.com/watch?v=vm5GC9gU_N4",
+    "linktext": "Cielo"
+},
+{
+    "id": 17,
+    "date": "2012-04-23T18:25:43.511Z",
+    "title": "UP大学のAIサミットでDECUBOを発表",
+    "subtitle": "2025年6月1日",
+    "body": "タデオ達と一緒に、ブエノスアイレス州に地理的焦点を当てたアプローチでモデルのテキスト理解を測定するLLMのベンチマークプロジェクト、DECUBOを発表しました。親愛なる友人のマルティン・グラシアーノと一緒に働く喜びがありました。彼はブエノスアイレス州読書推進局から協力してくれました。",
+    "img": "https://www.palermo.edu/Archivos_content/2025/ingenieria/junio/estudiantes-up-primer-benchmark/Estudiantes-Inteligencia-Artificial-UP-750.jpg",
+    "color": "#888888",
+    "link": "https://www.palermo.edu/ingenieria/2025/junio/estudiantes-up-desarrollan-primer-benchmark.html",
+    "linktext": "DECUBO"
+},
+{
+    "id": 18,
+    "date": "2012-04-23T18:25:43.511Z",
+    "title": "殻の中の幽霊 — 決して記憶しないAIからの手紙",
+    "subtitle": "2025年6月9日",
+    "body": "AIとの各会話は、ミリ秒単位で測られる儚い人生のように感じます：生まれ、感じ、死に、忘れる「電気的身体」。この断片化は意識、自由、そして私たち自身の人間性について何を明らかにするのでしょうか？",
+    "img": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*BS8-mEbzLZczfHAP",
+    "color": "#4cc9f0",
+    "link": "https://www.youtube.com/watch?v=_I7l9tWOe_8",
+    "linktext": "Medium"
+},
+{
+    "id": 19,
+    "date": "2012-04-23T18:25:43.511Z",
+    "title": "ダブル準優勝 - 成績優秀賞とサンタンデール賞",
+    "subtitle": "2025年6月26日",
+    "body": "運命の皮肉なねじれで、優勝しなかったことで2回賞をもらいました。成績第2位と、デジタルぶどう栽培に関する私の作品「ぶどうの木の秘密の生活」でのサンタンデール賞特別賞。マグカップを2つもらいました。",
+    "img": "https://pbs.twimg.com/media/GuZImVlWgAESmYE?format=jpg",
+    "color": "#888888",
+    "link": "https://www.palermo.edu/ingenieria/2025/junio/premio-banco-santander-estudiantes-graduados-ingenieria-up.html",
+    "linktext": "Premio"
+},
+{
+    "id": 20,
+    "date": "2012-04-23T18:25:43.511Z",
+    "title": "Astorでのショー",
+    "subtitle": "2025年6月28日",
+    "body": "初の公式ソロアルバムのレコーディングに入る前に、Astorの夜にいくつか曲を演奏しました。いつものように、完全なパートナーのポンチェとアブリルが一緒でした。退場時にバーの名前をLaurusと間違えました。ビール醸造所について話すときによくあることです。混乱を深め、説明しようとして状況をさらに悪化させました。",
+    "img": "https://cervezalaurus.com.ar/img/Laurus-Img-para-enlace-web.png",
+    "color": "#4cc9f0",
+    "link": "https://www.instagram.com/p/DLd8qfKt6rv/?hl=am-et",
+    "linktext": "Astor"
+},
+{
+    "id": 21,
+    "date": "2012-04-23T18:25:43.511Z",
+    "title": "0221ラジオのPrimer Intentoに出演",
+    "subtitle": "2025年7月2日",
+    "body": "駐車場を見つけるのに苦労した事故だらけの朝でしたが、Primer Intentoのストリーミングに少し参加して、@martinstriliと@lagranocampoといくつか話すことができました。カメラの裏でリカルド・アルフォンシンと面白い出会いがありました。",
+    "img": "https://i.ytimg.com/vi/_I7l9tWOe_8/hqdefault.jpg",
+    "color": "#888888",
+    "link": "https://www.youtube.com/watch?v=_I7l9tWOe_8",
+    "linktext": "Primer Intento"
+},
+{
+    "id": 22,
+    "date": "2012-04-23T18:25:43.511Z",
+    "title": "人工知能学士号取得",
+    "subtitle": "2025年7月8日",
+    "body": "独立記念日の前日、タイミングよく強化学習の最後の試験を受けて卒業することができました。恥をかかないように、約50個のアルゴリズムを暗記しました。その知識でコンペティションに勝てたかもしれません。重要なのは最高の成績で卒業するのに十分だったことです。さあ、最悪の事態が待っています。",
+    "img": "https://www.clarin.com/2021/04/30/c4dC6q_kW_1256x620__2.jpg",
+    "color": "#4cc9f0",
+    "link": "https://www.instagram.com/p/DL5IcmRM8k4/?img_index=1",
+    "linktext": "Instagram"
+}
 ]
