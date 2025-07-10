@@ -228,7 +228,7 @@
         "subtitle": "26/06/2025",
         "body": "En un giro trágico del destino, me premiaron dos veces por no haber ganado. Por segundo promedio y mención especial del Premio Santander por mi trabajo sobre vitivinicultura digital, La Vida Secreta de las Vides. Me premiaron con dos tazas.",
         "img": "https://pbs.twimg.com/media/GuZImVlWgAESmYE?format=jpg",
-        "color": "#4cc9f0",
+        "color": "#888888",
         "link": "https://www.palermo.edu/ingenieria/2025/junio/premio-banco-santander-estudiantes-graduados-ingenieria-up.html",
         "linktext": "Premio"
     },
@@ -253,5 +253,16 @@
         "color": "#888888",
         "link": "https://www.youtube.com/watch?v=_I7l9tWOe_8",
         "linktext": "Primer Intento"
+    },
+            {
+        "id": 22,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Licenciado", 
+        "subtitle": "08/07/2025",
+        "body": "Un día antes del día de la independencia, oportunamente logré recibirme tras rendir mi último final de Aprendizaje Por Refuerzo. Para no hacer papelones, me memoricé alrededor de cincuenta algoritmos. Creo que podría haber ganado competiciones con todo ese conocimiento. Lo importante es que fue suficiente para recibirme con la mejor nota. Ahora, nos espera lo peor.",
+        "img": "https://www.clarin.com/2021/04/30/c4dC6q_kW_1256x620__2.jpg",
+        "color": "#4cc9f0",
+        "link": "https://www.instagram.com/p/DL5IcmRM8k4/?img_index=1",
+        "linktext": "Instagram"
     }
 ]
