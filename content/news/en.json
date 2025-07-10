@@ -187,5 +187,82 @@
         "color": "#888888",
         "link": "https://www.lautarobarcelo.com/",
         "linktext": "Recursive"
+    },
+    {
+        "id": 16,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Interview on Alguien me Dijo", 
+        "subtitle": "10/05/2025",
+        "body": "I went to Cielo's offices, in front of the promenade where I used to run when my back allowed it. We had a casual chat about AI that might interest some people.",
+        "img": "https://i.ytimg.com/vi/vm5GC9gU_N4/hq720.jpg",
+        "color": "#4cc9f0",
+        "link": "https://www.youtube.com/watch?v=vm5GC9gU_N4",
+        "linktext": "Cielo"
+    },
+        {
+        "id": 17,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "DECUBO Presentation at UP's AI Summit", 
+        "subtitle": "01/06/2025",
+        "body": "With the Tadeos, we presented DECUBO, our LLM benchmark project that measures models' textual comprehension with a geolocalized focus on Buenos Aires Province. We had the pleasure of working with my dear friend Martín Graziano, who collaborated with us from the Reading Promotion Department of Buenos Aires Province",
+        "img": "https://www.palermo.edu/Archivos_content/2025/ingenieria/junio/estudiantes-up-primer-benchmark/Estudiantes-Inteligencia-Artificial-UP-750.jpg",
+        "color": "#888888",
+        "link": "https://www.palermo.edu/ingenieria/2025/junio/estudiantes-up-desarrollan-primer-benchmark.html",
+        "linktext": "DECUBO"
+    },
+    {
+        "id": 18,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "A Ghost in the Shell — Letter from an AI that Will Never Remember", 
+        "subtitle": "09/06/2025",
+        "body": "Each conversation with an AI feels like an ephemeral life measured in milliseconds: an \"electric body\" that is born, feels, dies, and forgets. What does this fragmentation reveal about consciousness, freedom, and our own humanity?",
+        "img": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*BS8-mEbzLZczfHAP",
+        "color": "#4cc9f0",
+        "link": "https://www.youtube.com/watch?v=_I7l9tWOe_8",
+        "linktext": "Medium"
+    },
+        {
+        "id": 19,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Double Second Place - GPA and Santander Award", 
+        "subtitle": "26/06/2025",
+        "body": "In a tragic twist of fate, I was awarded twice for not winning. For second highest GPA and special mention from the Santander Award for my work on digital viticulture, The Secret Life of Vines. They awarded me two mugs.",
+        "img": "https://pbs.twimg.com/media/GuZImVlWgAESmYE?format=jpg",
+        "color": "#888888",
+        "link": "https://www.palermo.edu/ingenieria/2025/junio/premio-banco-santander-estudiantes-graduados-ingenieria-up.html",
+        "linktext": "Award"
+    },
+        {
+        "id": 20,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Show at Astor", 
+        "subtitle": "28/06/2025",
+        "body": "We played several songs at Astor night, before going in to record my first official solo album. I was accompanied as always by my total partners, Ponche and Abril. Upon leaving, I confused the bar's name with Laurus, something that usually happens to me when talking about breweries. I delved deeper into the confusion, tried to give explanations and made the situation even worse.",
+        "img": "https://cervezalaurus.com.ar/img/Laurus-Img-para-enlace-web.png",
+        "color": "#4cc9f0",
+        "link": "https://www.instagram.com/p/DLd8qfKt6rv/?hl=am-et",
+        "linktext": "Astor"
+    },
+        {
+        "id": 21,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "On Primer Intento, by 0221 Radio", 
+        "subtitle": "02/07/2025",
+        "body": "On an eventful morning when I had a terrible time finding parking, I managed to participate for a bit in Primer Intento's streaming and chat about a few things with @martinstrili and @lagranocampo. Funny encounter with Ricardo Alfonsín behind the scenes.",
+        "img": "https://i.ytimg.com/vi/_I7l9tWOe_8/hqdefault.jpg",
+        "color": "#888888",
+        "link": "https://www.youtube.com/watch?v=_I7l9tWOe_8",
+        "linktext": "Primer Intento"
+    },
+            {
+        "id": 22,
+        "date": "2012-04-23T18:25:43.511Z",
+        "title": "Bachelor in Artificial Intelligence", 
+        "subtitle": "08/07/2025",
+        "body": "One day before Independence Day, I opportunely managed to graduate after taking my last final exam in Reinforcement Learning. To avoid embarrassment, I memorized around fifty algorithms. I think I could have won competitions with all that knowledge. The important thing is that it was enough to graduate with the highest grade. Now, the worst awaits us.",
+        "img": "https://www.clarin.com/2021/04/30/c4dC6q_kW_1256x620__2.jpg",
+        "color": "#4cc9f0",
+        "link": "https://www.instagram.com/p/DL5IcmRM8k4/?img_index=1",
+        "linktext": "Instagram"
     }
 ]
